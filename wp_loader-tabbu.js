@@ -15,7 +15,7 @@
     const _0x50c5f2 = _0x18f685 => new Promise(_0x247002 => _0x3d2dee.question(_0x18f685, _0x247002));
     const _0x2f2bfd = () => {
       console.clear();
-const figlet = await import('figlet');
+const figlet = import('figlet');
 
 const _0x2f2bfd = () => {
     console.clear();
